@@ -1,7 +1,10 @@
-Summary
--------
+Introduction
+------------
 
-The [End of Term Web Archive](http://eotarchive.cdlib.org/2016.html) is a project to preserve public government websites and data that are at risk of being removed during the transition from one US administration to another.  There are a great many websites and resources, and the process of archiving them takes weeks and months.  The goal of our _data rescue_ efforts is to identify the most urgent cases so that they get archived sooner.  Urgent cases are those that the incoming administration may be particularly antagonistic towards.
+The [End of Term Web Archive](http://eotarchive.cdlib.org/2016.html) is a project to preserve public government websites and data that are at risk of being removed during the transition from one US administration to another.  The Federal government has produced a great many websites and resources, and the process of archiving them takes weeks and months.  The goal of these _data rescue_ efforts is to identify the most urgent cases so that they get archived sooner.  "Urgent cases" are those that the incoming administration may be particularly antagonistic towards.
+
+Summary of the webcrawler
+-------------------------
 
 * [Understanding what the Internet Archive webcrawler does](https://docs.google.com/document/d/1PeWefW2toThs-Pbw0CMv2us7wxQI0gRrP1LGuwMp_UQ/edit)
 
