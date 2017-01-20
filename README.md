@@ -22,7 +22,7 @@ The _Seeders and Sorters_ team canvases the resources of a given government agen
 
 * [The agency forecasts developed by EDGI](https://envirodatagov.org/agency-forecasts/) &ndash; we are focusing on DOE for seeding, and a set of uncrawlable resources identified by past events
 
-* *[Assignment tracking spreadsheet](https://docs.google.com/spreadsheets/d/10M1_AyyJFpBIDZ7s6VzVa98Tx8zJBIoJESLlHZkJ018/edit#gid=707149033)*
+* **[Assignment tracking spreadsheet](https://docs.google.com/spreadsheets/d/10M1_AyyJFpBIDZ7s6VzVa98Tx8zJBIoJESLlHZkJ018/edit#gid=707149033)**
 
 More detail for researchers
 ---------------------------
