@@ -31,6 +31,8 @@ _Researchers_ take a closer look at URLs that seeers and sorters flagged as poss
 
 * [Summary of procedure for researchers](https://github.com/datarefugephilly/workflow/blob/master/research.md)
 
+* [Uncrawlables work list](https://docs.google.com/spreadsheets/d/12BCFVgOleNWOqClKFUTz8SBCP7xClTGgs4nldh8XRj4/edit?usp=sharing)
+
 The complete workflow
 ---------------------
 
