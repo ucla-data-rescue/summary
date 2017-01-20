@@ -22,7 +22,7 @@ The _Seeders and Sorters_ team canvases the resources of a given government agen
 More detail for researchers
 ---------------------------
 
-_Researchers_ take a closer look at URLs that seeers and sorters flagged as possibly not crawlable.  
+_Researchers_ take a closer look at URLs that seeers and sorters flagged as possibly not crawlable.  This activity requires more familiarity with HTML, JavaScript, the types of resources that might be encountered on the web, and how the web works in general.
 
 * [Summary of procedure for researchers](https://github.com/datarefugephilly/workflow/blob/master/research.md)
 
