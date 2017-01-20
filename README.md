@@ -3,7 +3,7 @@ Introduction
 
 The [End of Term Web Archive](http://digital2.library.unt.edu/nomination/eth2016/about/) is a project to preserve public government websites and data that are at risk of being removed during the transition from one US administration to another.  The Federal government has produced a great many websites and resources, and the process of archiving them takes weeks and months.  The goal of these _data rescue_ efforts is to identify the most urgent cases so that they get archived sooner.  "Urgent cases" are those that the incoming administration may be particularly antagonistic towards.
 
-In this UCLA event, our seeding and sorting goal will be Department of Energy (DOE) sites. We will prioritize (1) Office of Energy Efficiency and Renewable Energy, (2) Office of Science, Energy Information Administration, the (3) Federal Energy Regulatory Commission, and (4) National Renewable Energy Laboratory, in that order.
+In this UCLA event, our seeding and sorting goal will be Department of Energy (DOE) sites. We will prioritize (1) Office of Energy Efficiency and Renewable Energy, (2) Office of Science, (3) Energy Information Administration, (4) Federal Energy Regulatory Commission, and (4) National Renewable Energy Laboratory, in that order.
 
 
 Summary of the webcrawler
