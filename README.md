@@ -1,14 +1,33 @@
 Summary
 -------
 
-* [Understanding what the Internet Archive web crawler does](https://docs.google.com/document/d/1PeWefW2toThs-Pbw0CMv2us7wxQI0gRrP1LGuwMp_UQ/edit)
+The [End of Term Web Archive](http://eotarchive.cdlib.org/2016.html) is a project to preserve public government websites and data that are at risk of being removed during the transition from one US administration to another.  There are a great many websites and resources, and the process of archiving them takes weeks and months.  The goal of our _data rescue_ efforts is to identify the most urgent cases so that they get archived sooner.  Urgent cases are those that the incoming administration may be particularly antagonistic towards.
+
+* [Understanding what the Internet Archive webcrawler does](https://docs.google.com/document/d/1PeWefW2toThs-Pbw0CMv2us7wxQI0gRrP1LGuwMp_UQ/edit)
 
 * [Seeding the End of Term crawler's list of URLs to crawl](https://docs.google.com/document/d/1qpuNCmBmu4KcsS_hE2srewcCiP4f9P5cCyDfHmsSAVU/edit)
 
-More information for seeders
-----------------------------
+More information for seeders and sorters
+----------------------------------------
+
+The _Seeders and Sorters_ team canvases the resources of a given government agency, identifying important URLs. They sort them by whether their data can be automatically captured by the Internet Archive webcrawler. URLs judged to be possibly crawlable are "nominated" (equivalently, "seeded") using our [Chrome extension](https://chrome.google.com/webstore/detail/nominationtool/abjpihafglmijnkkoppbookfkkanklok) or bookmarklet. This sorting is only provisional: when in doubt seeders mark a URL as possibly not crawlable, and these URLs populate a spreadsheet. 
 
 * [The nomination tool Google Chrome extension](https://chrome.google.com/webstore/detail/nominationtool/abjpihafglmijnkkoppbookfkkanklok)
 
 * [The agency forecasts developed by EDGI](https://envirodatagov.org/agency-forecasts/) &ndash; we are focusing on DOE for seeding, and a set of uncrawlable resources identified by past events
 
+More detail for researchers
+---------------------------
+
+_Researchers_ take a closer look at URLs that seeers and sorters flagged as possibly not crawlable.  
+
+* [Summary of procedure for researchers](https://github.com/datarefugephilly/workflow/blob/master/research.md)
+
+More details for harversters
+----------------------------
+
+
+Additional details
+------------------
+
+* [EDGI EOT toolkit description](https://github.com/edgi-govdata-archiving/eot-sprint-toolkit)
