@@ -13,6 +13,8 @@ Summary of the webcrawler
 
 * [Seeding the End of Term crawler's list of URLs to crawl](https://docs.google.com/document/d/1qpuNCmBmu4KcsS_hE2srewcCiP4f9P5cCyDfHmsSAVU/edit)
 
+* [Tips from Sam about what's uncrawlable](https://docs.google.com/document/d/1ZSx7zO6hRB_jjzwPO-zu-ps2eueZh3wRk4MrCxkMX_w/edit)
+
 More information for seeders and sorters
 ----------------------------------------
 
