@@ -26,8 +26,12 @@ _Researchers_ take a closer look at URLs that seeers and sorters flagged as poss
 
 * [Summary of procedure for researchers](https://github.com/datarefugephilly/workflow/blob/master/research.md)
 
-More details for harversters
-----------------------------
+The complete workflow
+---------------------
+
+The two steps above are part of a larger workflow still under active development by several groups.  Currently, the clearest articulation of that workflow is the following documentation developed by the UPenn group:
+
+* [Philly workflow](https://github.com/datarefugephilly/workflow)
 
 
 Additional details
