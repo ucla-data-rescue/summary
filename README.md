@@ -3,9 +3,6 @@ Introduction
 
 The [End of Term Web Archive](http://digital2.library.unt.edu/nomination/eth2016/about/) is a project to preserve public government websites and data that are at risk of being removed during the transition from one US administration to another.  The Federal government has produced a great many websites and resources, and the process of archiving them takes weeks and months.  The goal of these _data rescue_ efforts is to identify the most urgent cases so that they get archived sooner.  "Urgent cases" are those that the incoming administration may be particularly antagonistic towards.
 
-In this UCLA event, our seeding and sorting goal will be Department of Energy (DOE) sites. We will prioritize (1) Office of Energy Efficiency and Renewable Energy, (2) Office of Science, (3) Energy Information Administration, (4) Federal Energy Regulatory Commission, and (4) National Renewable Energy Laboratory, in that order.
-
-
 Summary of the webcrawler
 -------------------------
 
@@ -22,7 +19,7 @@ The _Seeders and Sorters_ team canvases the resources of a given government agen
 
 * [The nomination tool Google Chrome extension](https://chrome.google.com/webstore/detail/nominationtool/abjpihafglmijnkkoppbookfkkanklok)
 
-* [The agency forecasts developed by EDGI](https://envirodatagov.org/agency-forecasts/) &ndash; we are focusing on DOE for seeding, and a set of uncrawlable resources identified by past events
+* [The agency forecasts developed by EDGI](https://envirodatagov.org/agency-forecasts/) &ndash; we are focusing on DOE for seeding, and a set of uncrawlable resources identified by past events. In this UCLA event, our seeding and sorting goal will be Department of Energy (DOE) sites. We will prioritize (1) Office of Energy Efficiency and Renewable Energy, (2) Office of Science, (3) Energy Information Administration, (4) Federal Energy Regulatory Commission, and (4) National Renewable Energy Laboratory, in that order.
 
 * **[Assignment tracking spreadsheet](https://docs.google.com/spreadsheets/d/10M1_AyyJFpBIDZ7s6VzVa98Tx8zJBIoJESLlHZkJ018/edit#gid=707149033)**
 
@@ -33,7 +30,7 @@ _Researchers_ take a closer look at URLs that seeers and sorters flagged as poss
 
 * [Summary of procedure for researchers](https://github.com/datarefugephilly/workflow/blob/master/research.md)
 
-* [Uncrawlables work list](https://docs.google.com/spreadsheets/d/12BCFVgOleNWOqClKFUTz8SBCP7xClTGgs4nldh8XRj4/edit?usp=sharing)
+* [Uncrawlables work list](https://docs.google.com/spreadsheets/d/12BCFVgOleNWOqClKFUTz8SBCP7xClTGgs4nldh8XRj4/edit?usp=sharing) &ndash; This is a subset of content previously identified as being uncrawlable. The subset was determined to be higher priority.
 
 The complete workflow
 ---------------------
@@ -46,6 +43,9 @@ The two steps above are part of a larger workflow still under active development
 Additional details
 ------------------
 
+[EDGI  (Environmental Data & Governance Initiative)](https://envirodatagov.org) is an international effort to develop tools, research networks, and initiatives to archive public environmental data proactively.  Together with [DataRefuge](http://www.ppehlab.org/datarefuge/), an effort from the University of Pennsylvania Program in the Environmental Humanities, they have been organizing data rescue events since December 2016.  We are using the workflows and tools they have been evolving.
+
+* [EDGI Home page](https://envirodatagov.org)
+
 * [EDGI EOT toolkit description](https://github.com/edgi-govdata-archiving/eot-sprint-toolkit)
 
-* [FAQs for the Internet Archive's Wayback Machine](http://archive.org/about/faqs.php#The_Wayback_Machine)
