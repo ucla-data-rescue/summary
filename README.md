@@ -19,7 +19,7 @@ The _Seeders and Sorters_ team canvases the resources of a given government agen
 
 * [The nomination tool Google Chrome extension](https://chrome.google.com/webstore/detail/nominationtool/abjpihafglmijnkkoppbookfkkanklok)
 
-* [The agency forecasts developed by EDGI](https://envirodatagov.org/agency-forecasts/) &ndash; we are focusing on DOE for seeding, and a set of uncrawlable resources identified by past events. In this UCLA event, our seeding and sorting goal will be Department of Energy (DOE) sites. We will prioritize (1) Office of Energy Efficiency and Renewable Energy, (2) Office of Science, (3) Energy Information Administration, (4) Federal Energy Regulatory Commission, and (4) National Renewable Energy Laboratory, in that order.
+* [The agency forecasts developed by EDGI](https://envirodatagov.org/agency-forecasts/) &ndash; we are focusing on DOE for seeding, and a set of uncrawlable resources identified by past events. In this UCLA event, our seeding and sorting goal will be Department of Energy (DOE) sites. We will prioritize (1) Office of Energy Efficiency and Renewable Energy, (2) Office of Science, (3) Energy Information Administration, (4) Federal Energy Regulatory Commission, and (5) National Renewable Energy Laboratory, in that order.
 
 * **[Assignment tracking spreadsheet](https://docs.google.com/spreadsheets/d/10M1_AyyJFpBIDZ7s6VzVa98Tx8zJBIoJESLlHZkJ018/edit#gid=707149033)**
 
