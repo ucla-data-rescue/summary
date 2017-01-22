@@ -55,16 +55,11 @@ The steps above are part of a larger workflow still under active development by 
 * [Philly workflow](https://github.com/datarefugephilly/workflow)
 
 
-Additional details
-------------------
+Additional information
+----------------------
 
 [EDGI  (Environmental Data & Governance Initiative)](https://envirodatagov.org) is an international effort to develop tools, research networks, and initiatives to archive public environmental data proactively.  Together with [DataRefuge](http://www.ppehlab.org/datarefuge/), an effort from the University of Pennsylvania Program in the Environmental Humanities, they have been organizing data rescue events since December 2016.  We are using the workflows and tools they have been evolving.
 
 * [EDGI Home page](https://envirodatagov.org)
 
 * [EDGI EOT toolkit description](https://github.com/edgi-govdata-archiving/eot-sprint-toolkit)
-
-License
--------
-
-The diagram above is licensed according to the [Creative Commons Attribution-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0/) by Michelle Murphy, University of Toronto, 2016.
