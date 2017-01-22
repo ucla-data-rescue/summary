@@ -7,7 +7,7 @@ While we want as much as possible to go into the Internet Archive, some of the o
 
 Overall, the data rescue approach can be summarized by the following diagram:
 
-<img src="https://github.com/ucla-data-rescue/summary/blob/master/.graphics/summary-diagram.jpg?raw=true" alt="Archiving diagram" title="General data workflow"/>
+<img src="https://github.com/ucla-data-rescue/summary/blob/master/.graphics/overall-diagram.jpg?raw=true" alt="Archiving diagram" title="General data workflow"/>
 </p>
 
 
