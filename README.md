@@ -5,8 +5,6 @@ The [End of Term Web Archive](http://digital2.library.unt.edu/nomination/eth2016
 
 While we want as much as possible to go into the Internet Archive, some of the open data resources made available by different government agencies are in formats that the Internet Archive is not designed to handle technologically.  These data need to be downloaded separately, packaged up in a container along with a description of what the data is, and uploaded in other open repositories designed specifically for data archiving.
 
-Quick links: [agency "primers"](https://envirodatagov.org/agency-forecasts/), [assignment tracker](https://docs.google.com/spreadsheets/d/10M1_AyyJFpBIDZ7s6VzVa98Tx8zJBIoJESLlHZkJ018/edit#gid=707149033)
-
 Summary of the webcrawler
 -------------------------
 
@@ -25,7 +23,7 @@ The reason for a human in the loop is this: the technological limitations of tod
 
 * [The nomination tool Google Chrome extension](https://chrome.google.com/webstore/detail/nominationtool/abjpihafglmijnkkoppbookfkkanklok)
 
-* [The agency forecasts developed by EDGI](https://envirodatagov.org/agency-forecasts/) &ndash; we are focusing on DOE for seeding, and a set of uncrawlable resources identified by past events. In this UCLA event, our seeding and sorting goal will be Department of Energy (DOE) sites. We will prioritize (1) Office of Energy Efficiency and Renewable Energy, (2) Office of Science, (3) Energy Information Administration, (4) Federal Energy Regulatory Commission, and (5) National Renewable Energy Laboratory, in that order.
+* **[Agency forecasts developed by EDGI](https://envirodatagov.org/agency-forecasts/)** &ndash; we are focusing on DOE for seeding, and a set of uncrawlable resources identified by past events. In this UCLA event, our seeding and sorting goal will be Department of Energy (DOE) sites. We will prioritize (1) Office of Energy Efficiency and Renewable Energy, (2) Office of Science, (3) Energy Information Administration, (4) Federal Energy Regulatory Commission, and (5) National Renewable Energy Laboratory, in that order.
 
 * **[Assignment tracking spreadsheet](https://docs.google.com/spreadsheets/d/10M1_AyyJFpBIDZ7s6VzVa98Tx8zJBIoJESLlHZkJ018/edit#gid=707149033)** &ndash; so that people know which agency sub-pages are already being worked on.
 
