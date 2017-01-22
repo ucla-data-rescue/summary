@@ -1,7 +1,7 @@
 Introduction
 ------------
 
-The [End of Term Web Archive](http://digital2.library.unt.edu/nomination/eth2016/about/) is a project to preserve public government websites and data that are at risk of being removed during the transition from one US administration to another.  The Federal government has produced a great many websites and resources, and the process of archiving them takes weeks and months.  The goal of these _data rescue_ efforts is to identify the most urgent cases so that they get archived sooner.  "Urgent cases" are those that the incoming administration may be particularly antagonistic towards.
+The [End of Term Web Archive](http://digital2.library.unt.edu/nomination/eth2016/about/) is a project to preserve public government websites and data that are at risk of being removed during the transition from one US administration to another.  The Federal government has produced a great many websites and resources, and the process of archiving them takes weeks and months.  The goal of current _data rescue_ efforts is to identify the most urgent cases so that they get archived sooner.  "Urgent cases" are those that the incoming administration may be particularly antagonistic towards.
 
 While we want as much as possible to go into the Internet Archive, some of the open data resources made available by different government agencies are in formats that the Internet Archive is not designed to handle technologically.  These data need to be downloaded separately, packaged up in a container along with a description of what the data is, and uploaded in other open repositories designed specifically for data archiving.
 
@@ -14,6 +14,8 @@ Overall, the data rescue approach can be summarized by the following diagram:
 Summary of the webcrawler
 -------------------------
 
+A webcrawler is a program that visits a web page, stores a copy, then examines the page looking for links to _other_ web pages, follows those links, and repeats the process for every new page found.  It is useful to understand a little bit about how crawlers work and what their limitations are.
+
 * [Understanding what the Internet Archive webcrawler does](https://docs.google.com/document/d/1PeWefW2toThs-Pbw0CMv2us7wxQI0gRrP1LGuwMp_UQ/edit)
 
 * [Seeding the End of Term crawler's list of URLs to crawl](https://docs.google.com/document/d/1qpuNCmBmu4KcsS_hE2srewcCiP4f9P5cCyDfHmsSAVU/edit)
@@ -21,7 +23,9 @@ Summary of the webcrawler
 More information for seeders and sorters
 ----------------------------------------
 
-The _Seeders and Sorters_ team canvases the resources of a given government agency, identifying important URLs. They sort them by whether their data can be automatically captured by the Internet Archive webcrawler. URLs judged to be possibly crawlable are "nominated" (equivalently, "seeded") using our [Chrome extension](https://chrome.google.com/webstore/detail/nominationtool/abjpihafglmijnkkoppbookfkkanklok) or bookmarklet. This sorting is only provisional: when in doubt seeders mark a URL as possibly not crawlable, and these URLs populate a spreadsheet. 
+The _Seeders and Sorters_ team canvases the resources of a given government agency, identifying important URLs.  URLs are nominated (equivalently, "seeded") using the [Chrome extension](https://chrome.google.com/webstore/detail/nominationtool/abjpihafglmijnkkoppbookfkkanklok) or bookmarklet developed for this purpose.  Each URL is added to a spreadsheet.
+
+The reason for a human in the loop is this: the technological limitations of today's webcrawlers means that not everything can be automatically downloaded, so humans are needed to sort pages by whether they _can_ be completely captured automatically.  This sorting is really only provisional: when in doubt, seeders mark a URL as not crawlable, and humans in the next step of the workflow (the _researchers_) take a closer look at the "uncrawlables".
 
 * [The nomination tool Google Chrome extension](https://chrome.google.com/webstore/detail/nominationtool/abjpihafglmijnkkoppbookfkkanklok)
 
@@ -40,8 +44,8 @@ _Researchers_ take a closer look at URLs that seeers and sorters flagged as poss
 
 * The [Uncrawlables work list](https://docs.google.com/spreadsheets/d/12BCFVgOleNWOqClKFUTz8SBCP7xClTGgs4nldh8XRj4/edit?usp=sharing) &ndash; This is a subset of content previously identified as being uncrawlable. The subset was determined to be higher priority.  People can pick off whichever ones they would like to try.
 
-The complete workflow
----------------------
+More details for the rest of the workflow
+-----------------------------------------
 
 The two steps above are part of a larger workflow still under active development by several groups.  Currently, the clearest articulation of that workflow is the following documentation developed by the UPenn group:
 
