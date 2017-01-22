@@ -3,6 +3,14 @@ Introduction
 
 The [End of Term Web Archive](http://digital2.library.unt.edu/nomination/eth2016/about/) is a project to preserve public government websites and data that are at risk of being removed during the transition from one US administration to another.  The Federal government has produced a great many websites and resources, and the process of archiving them takes weeks and months.  The goal of these _data rescue_ efforts is to identify the most urgent cases so that they get archived sooner.  "Urgent cases" are those that the incoming administration may be particularly antagonistic towards.
 
+While we want as much as possible to go into the Internet Archive, some of the open data resources made available by different government agencies are in formats that the Internet Archive is not designed to handle technologically.  These data need to be downloaded separately, packaged up in a container along with a description of what the data is, and uploaded in other open repositories designed specifically for data archiving.
+
+Overall, the data rescue approach can be summarized by the following diagram:
+
+<img src="https://github.com/ucla-data-rescue/summary/blob/master/.graphics/summary-diagram.jpg?raw=true" alt="Archiving diagram" title="General data workflow"/>
+</p>
+
+
 Summary of the webcrawler
 -------------------------
 
@@ -30,7 +38,7 @@ _Researchers_ take a closer look at URLs that seeers and sorters flagged as poss
 
 * [Tips from Sam about what's uncrawlable](https://docs.google.com/document/d/1ZSx7zO6hRB_jjzwPO-zu-ps2eueZh3wRk4MrCxkMX_w/edit)
 
-* The [Uncrawlables work list](https://docs.google.com/spreadsheets/d/12BCFVgOleNWOqClKFUTz8SBCP7xClTGgs4nldh8XRj4/edit?usp=sharing) &ndash; This is a subset of content previously identified as being uncrawlable. The subset was determined to be higher priority.
+* The [Uncrawlables work list](https://docs.google.com/spreadsheets/d/12BCFVgOleNWOqClKFUTz8SBCP7xClTGgs4nldh8XRj4/edit?usp=sharing) &ndash; This is a subset of content previously identified as being uncrawlable. The subset was determined to be higher priority.  People can pick off whichever ones they would like to try.
 
 The complete workflow
 ---------------------
@@ -49,3 +57,7 @@ Additional details
 
 * [EDGI EOT toolkit description](https://github.com/edgi-govdata-archiving/eot-sprint-toolkit)
 
+License
+-------
+
+The diagram above is licensed according to the [Creative Commons Attribution-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0/) by Michelle Murphy, University of Toronto, 2016.
