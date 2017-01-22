@@ -5,12 +5,6 @@ The [End of Term Web Archive](http://digital2.library.unt.edu/nomination/eth2016
 
 While we want as much as possible to go into the Internet Archive, some of the open data resources made available by different government agencies are in formats that the Internet Archive is not designed to handle technologically.  These data need to be downloaded separately, packaged up in a container along with a description of what the data is, and uploaded in other open repositories designed specifically for data archiving.
 
-Overall, the data rescue approach can be summarized by the following diagram:
-
-<img src="https://github.com/ucla-data-rescue/summary/blob/master/.graphics/overall-diagram.jpg?raw=true" alt="Archiving diagram" title="General data workflow"/>
-</p>
-
-
 Summary of the webcrawler
 -------------------------
 
@@ -42,12 +36,23 @@ _Researchers_ take a closer look at URLs that seeers and sorters flagged as poss
 
 * [Tips from Sam about what's uncrawlable](https://docs.google.com/document/d/1ZSx7zO6hRB_jjzwPO-zu-ps2eueZh3wRk4MrCxkMX_w/edit)
 
-* The [Uncrawlables work list](https://docs.google.com/spreadsheets/d/12BCFVgOleNWOqClKFUTz8SBCP7xClTGgs4nldh8XRj4/edit?usp=sharing) &ndash; This is a subset of content previously identified as being uncrawlable. The subset was determined to be higher priority.  People can pick off whichever ones they would like to try.
+For many people and events, the researchers and harvesters overlap considerably.  For this reason, they work off the same list of URLs.  In our event, we are using a subset of uncrawlable URLs that was determined to be higher priority and already confirmed to be uncrawlable. This list of URLs is in a spreadsheet listed in the next step below.
 
-More details for the rest of the workflow
------------------------------------------
+More details for harvesters
+---------------------------
 
-The two steps above are part of a larger workflow still under active development by several groups.  Currently, the clearest articulation of that workflow is the following documentation developed by the UPenn group:
+Harvesters take the "uncrawlable" content and try to figure out how to capture it. This is often a complex task that can require substantial technical expertise, and often requires different techniques for different types of content.  A good description of the process has been put together by the DataRefuge group at UPenn in their toolkit:
+
+* [Harvesting toolkit](https://github.com/datarefugephilly/workflow/tree/master/harvesting-toolkit)
+
+The list of uncrawlables for our event is the following:
+
+* The [uncrawlables work list](https://docs.google.com/spreadsheets/d/12BCFVgOleNWOqClKFUTz8SBCP7xClTGgs4nldh8XRj4/edit?usp=sharing)
+
+More details about bagging, uploading and metadata creation
+-----------------------------------------------------------
+
+The steps above are part of a larger workflow still under active development by several groups.  The workflow tries to address the different kinds of content and websites that can be encountered.  Currently, the clearest articulation of that workflow is the following documentation developed by the UPenn group:
 
 * [Philly workflow](https://github.com/datarefugephilly/workflow)
 
