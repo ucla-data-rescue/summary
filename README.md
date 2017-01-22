@@ -45,9 +45,7 @@ Harvesters take the "uncrawlable" content and try to figure out how to capture i
 
 * [Harvesting toolkit](https://github.com/datarefugephilly/workflow/tree/master/harvesting-toolkit)
 
-The list of uncrawlables for our event is the following:
-
-* The [uncrawlables work list](https://docs.google.com/spreadsheets/d/12BCFVgOleNWOqClKFUTz8SBCP7xClTGgs4nldh8XRj4/edit?usp=sharing)
+* The [uncrawlables work list](https://docs.google.com/spreadsheets/d/12BCFVgOleNWOqClKFUTz8SBCP7xClTGgs4nldh8XRj4/edit?usp=sharing) &ndash; this is actually a subset, determined by Philly's DataRefuge group to have high priority
 
 More details about bagging, uploading and metadata creation
 -----------------------------------------------------------
